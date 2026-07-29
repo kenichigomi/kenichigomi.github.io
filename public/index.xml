@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kenichi Gomi</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Kenichi Gomi</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 28 Jul 2026 17:03:53 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Resume</title>
+				<link>http://localhost:1313/resume/</link>
+				<pubDate>Tue, 28 Jul 2026 17:03:53 -0400</pubDate>
+				<guid>http://localhost:1313/resume/</guid>
+				<description>&lt;h1 id=&#34;education&#34;&gt;&#xD;&#xA;  Education&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#education&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;div style=&#34;display: flex; justify-content: space-between;&#34;&gt;&#xA;  &lt;strong&gt;Northeastern University&lt;/strong&gt;&#xA;  &lt;span&gt;September 2022 ~ April 2026&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&lt;div&gt;&#xA;  Boston, MA&#xA;  &lt;ul style=&#34;margin-top: 0;&#34;&gt;&#xA;    &lt;li&gt;GPA: 3.688/4.000&lt;/li&gt;&#xA;    &lt;li&gt;Deans List: Spring 2023, Fall 2023, Spring 2024, 2025, 2026&lt;/li&gt;&#xA;    &lt;li&gt;Clubs: Northeastern University Club Running, Northeastern Pep Band (Alto Sax. Section Leader)&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;display: flex; justify-content: space-between;&#34;&gt;&#xA;  &lt;strong&gt;Northeastern University London&lt;/strong&gt;&#xA;  &lt;span&gt;September 2022 ~ December 2022&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&lt;div&gt;&#xA;  London, UK&#xA;  &lt;ul style=&#34;margin-top: 0;&#34;&gt;&#xA;    &lt;li&gt;Participated in the first semester study abroad program for Northeastern University&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;h1 id=&#34;skills&#34;&gt;&#xD;&#xA;  Skills&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#skills&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Coding Languages&lt;/strong&gt;: &lt;em&gt;Python, SQL, R, HTML, CSS, JavaScript, Markdown&lt;/em&gt; &lt;br&gt;&#xA;&lt;strong&gt;Developer Tools&lt;/strong&gt;: &lt;em&gt;VSCode, RStudio, AWS, ArcGIS, Microsoft Office, DBT, GitHub, Tableau, Anaconda, Atlassian&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>http://localhost:1313/contact/</link>
+				<pubDate>Tue, 28 Jul 2026 16:40:32 -0400</pubDate>
+				<guid>http://localhost:1313/contact/</guid>
+				<description>&lt;p&gt;Personal Email: &lt;a href=&#34;mailto:kenichigomi.inferno@gmail.com&#34; &gt;kenichigomi.inferno@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;Business Email: &lt;a href=&#34;mailto:gomi.k@northeastern.edu&#34; &gt;gomi.k@northeastern.edu&lt;/a&gt;&lt;br&gt;&#xA;Mobile Number: (+1) 978-908-9917&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Tue, 28 Jul 2026 16:29:44 -0400</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;Kenichi Gomi graduated cum laude from Northeastern University in 2026 with a Bachelor&amp;rsquo;s of Science in Data Science and Environmental Sustainability Sciences. He has completed two co-ops at Montai Therapeutics and BW Solar as a Data Research Co-op and a Renewable Energy Site Acquisition Co-op respectively. He has a strong passion to analyze energy and environmental data to solve problems.&lt;/p&gt;&#xA;&lt;p&gt;He is also an avid runner and cyclist. His primary events in track and field include the 800m dash and the mile, but also enjoys the occasional half marathon. Kenichi enjoys bikepacking and camping. In 2025, he and his friends rode up from Boston MA to Burlington VT.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

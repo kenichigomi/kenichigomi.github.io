@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Thought Dump on Kenichi Gomi</title>
+		<link>http://localhost:1313/tags/thought-dump/</link>
+		<description>Recent content in Thought Dump on Kenichi Gomi</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 28 Jul 2026 16:50:52 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/thought-dump/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>First post</title>
+				<link>http://localhost:1313/posts/first-post/</link>
+				<pubDate>Tue, 28 Jul 2026 16:50:52 -0400</pubDate>
+				<guid>http://localhost:1313/posts/first-post/</guid>
+				<description>&lt;p&gt;Well then. Hello world. This is the beginning of my personal website. I haven&amp;rsquo;t figured out how I want to use the blog post area, but I think I&amp;rsquo;ll use it more as a thought dump rather than a daily journaling thing.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
