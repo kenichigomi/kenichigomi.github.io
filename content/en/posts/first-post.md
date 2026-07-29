@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2026-07-29T17:19:17-04:00
 title = "Celebrating a successful deployment and future thoughts"
 description = "Article listing some future developments"
