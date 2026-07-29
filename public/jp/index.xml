@@ -18,14 +18,14 @@
 				<link>http://localhost:1313/jp/resume/</link>
 				<pubDate>Tue, 28 Jul 2026 17:03:57 -0400</pubDate>
 				<guid>http://localhost:1313/jp/resume/</guid>
-				<description></description>
+				<description>&lt;h1 id=&#34;学歴&#34;&gt;&#xD;&#xA;  学歴&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e5%ad%a6%e6%ad%b4&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;div style=&#34;display: flex; justify-content: space-between;&#34;&gt;&#xA;  &lt;strong&gt;ノースイースターン大学&lt;/strong&gt;&#xA;  &lt;span&gt;2022年9月 ~ 2026年4月&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;display: flex; justify-content: space-between;&#34;&gt;&#xA;  &lt;i&gt;学士、データサイエンスと環境学&lt;/i&gt;&#xA;  &lt;i&gt;ボストン, マサチューセッツ州&lt;/i&gt;&#xA;&lt;/div&gt;&#xA;&lt;div&gt;&#xA;  &lt;ul style=&#34;margin-top: 0;&#34;&gt;&#xA;    &lt;li&gt;&lt;strong&gt;GPA:&lt;/strong&gt; 3.688/4.000&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;表彰:&lt;/strong&gt; Deans List Spring 2023, Fall 2023, Spring 2024, 2025, 2026&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;クラブ活動:&lt;/strong&gt; ランニングクラブ、ペップバンド (アルトサックスセクションリーダー)&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;Relevant Courses:&lt;/strong&gt; Machine Learning, Database Design, Information Visualization, Artificial Intelligence, Sustainable Development&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Participated in the NU.in first-semester study abroad program in London&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;h1 id=&#34;技術&#34;&gt;&#xD;&#xA;  技術&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%8a%80%e8%a1%93&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;プログラミング言語:&lt;/strong&gt; &lt;em&gt;Python, SQL, R, HTML, CSS, JavaScript, Markdown&lt;/em&gt; &lt;br&gt;&#xA;&lt;strong&gt;開発者ツール:&lt;/strong&gt; &lt;em&gt;VSCode, RStudio, AWS, ArcGIS, Microsoft Office, DBT, GitHub, Tableau, Anaconda, Atlassian&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Contact</title>
 				<link>http://localhost:1313/jp/contact/</link>
 				<pubDate>Tue, 28 Jul 2026 16:55:51 -0400</pubDate>
 				<guid>http://localhost:1313/jp/contact/</guid>
-				<description></description>
+				<description>&lt;p&gt;お気軽にご連絡ください！&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;メールアドレス:&lt;/strong&gt; &lt;a href=&#34;mailto:kenichigomi.inferno@gmail.com&#34; &gt;kenichigomi.inferno@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;電話番号:&lt;/strong&gt; (+1) 978-908-9917&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>About</title>

@@ -4,8 +4,7 @@ draft = false
 title = 'Contact'
 +++
 
+Please feel free to contact me!
 
-
-**Personal Email:** kenichigomi.inferno@gmail.com\
-**Business Email:** gomi.k@northeastern.edu\
+**Email Address:** kenichigomi.inferno@gmail.com\
 **Mobile Number:** (+1) 978-908-9917

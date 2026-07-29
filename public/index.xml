@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 28 Jul 2026 17:03:53 -0400</lastBuildDate>
+			<lastBuildDate>Wed, 29 Jul 2026 17:19:17 -0400</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Celebrating a successful deployment and future thoughts</title>
+				<link>http://localhost:1313/posts/first-post/</link>
+				<pubDate>Wed, 29 Jul 2026 17:19:17 -0400</pubDate>
+				<guid>http://localhost:1313/posts/first-post/</guid>
+				<description>&lt;p&gt;Cheers! This website got deployed to GitHub today on July 29, 2026.&lt;/p&gt;&#xA;&lt;p&gt;The main purpose of this website is to host my resume and my contact information. I was on a call yesterday and my friend asked why I didn&amp;rsquo;t just embed a resume so that it could be downloaded, but I think it looks cleaner this way. Maybe I&amp;rsquo;ll implement a link or a page sometime for downloadables.&lt;/p&gt;&#xA;&lt;p&gt;I also wanted to have a place to dump some thoughts, kind of like a substack. I created a private photography instagram account which I treat as a digital diary of sorts, but since this is public the words you see will be slightly filtered. I also don&amp;rsquo;t plan on posting daily.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Resume</title>
 				<link>http://localhost:1313/resume/</link>
@@ -25,7 +32,7 @@
 				<link>http://localhost:1313/contact/</link>
 				<pubDate>Tue, 28 Jul 2026 16:40:32 -0400</pubDate>
 				<guid>http://localhost:1313/contact/</guid>
-				<description>&lt;p&gt;&lt;strong&gt;Personal Email:&lt;/strong&gt; &lt;a href=&#34;mailto:kenichigomi.inferno@gmail.com&#34; &gt;kenichigomi.inferno@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Business Email:&lt;/strong&gt; &lt;a href=&#34;mailto:gomi.k@northeastern.edu&#34; &gt;gomi.k@northeastern.edu&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Mobile Number:&lt;/strong&gt; (+1) 978-908-9917&lt;/p&gt;</description>
+				<description>&lt;p&gt;Please feel free to contact me!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email Address:&lt;/strong&gt; &lt;a href=&#34;mailto:kenichigomi.inferno@gmail.com&#34; &gt;kenichigomi.inferno@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Mobile Number:&lt;/strong&gt; (+1) 978-908-9917&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>About</title>
