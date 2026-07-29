@@ -1,6 +1,6 @@
 +++
 date = '2026-07-28T17:03:53-04:00'
-draft = true
+draft = false
 title = 'Resume'
 +++
 
