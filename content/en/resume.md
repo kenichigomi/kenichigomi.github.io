@@ -5,36 +5,29 @@ title = 'Resume'
 +++
 
 # Education
-
 <div style="display: flex; justify-content: space-between;">
   <strong>Northeastern University</strong>
   <span>September 2022 ~ April 2026</span>
 </div>
 
-<div>
-  Boston, MA
-  <ul style="margin-top: 0;">
-    <li>GPA: 3.688/4.000</li>
-    <li>Deans List: Spring 2023, Fall 2023, Spring 2024, 2025, 2026</li>
-    <li>Clubs: Northeastern University Club Running, Northeastern Pep Band (Alto Sax. Section Leader)</li>
-  </ul>
-</div>
-
 <div style="display: flex; justify-content: space-between;">
-  <strong>Northeastern University London</strong>
-  <span>September 2022 ~ December 2022</span>
+  <i>B.S. in Data Science and Environmental Sustainability Sciences</i>
+  <i>Boston, MA</i>
 </div>
 
 <div>
-  London, UK
   <ul style="margin-top: 0;">
-    <li>Participated in the first semester study abroad program for Northeastern University</li>
+    <li><strong>GPA:</strong> 3.688/4.000</li>
+    <li><strong>Awards:</strong> Deans List Spring 2023, Fall 2023, Spring 2024, 2025, 2026</li>
+    <li><strong>Clubs:</strong> Northeastern University Club Running, Northeastern Pep Band (Alto Sax. Section Leader)</li>
+    <li><strong>Relevant Courses:</strong> Machine Learning, Database Design, Information Visualization, Artificial Intelligence, Sustainable Development</li>
+    <li><strong>Notes:</strong> Participated in the NU.in first-semester study abroad program in London</li>
   </ul>
 </div>
 
 # Skills
-**Coding Languages**: *Python, SQL, R, HTML, CSS, JavaScript, Markdown* \
-**Developer Tools**: *VSCode, RStudio, AWS, ArcGIS, Microsoft Office, DBT, GitHub, Tableau, Anaconda, Atlassian*
+**Coding Languages:** *Python, SQL, R, HTML, CSS, JavaScript, Markdown* \
+**Developer Tools:** *VSCode, RStudio, AWS, ArcGIS, Microsoft Office, DBT, GitHub, Tableau, Anaconda, Atlassian*
 
 # Experience
 <!-- Experience Begin -->
@@ -49,8 +42,8 @@ title = 'Resume'
 <div>
   <ul style="margin-top: 0;">
     <li>Designed webscrapers to pull over 100 tables from National Grid’s GridForce and Ameren’s project queue</li>
-    <li>Identified more than 50 sub-transmission lines in Illinois with low queue positions to find potential sites</li>
-    <li>Wrote 96 outreach letters for sites across New York and Illinois for land agents to send to landowners </li>
+    <li>Analyzed interconnection queue data to identify over 50 potential sub-transmission lines in Illinois</li>
+    <li>Prepared 96 outreach letters for sites across New York and Illinois for land agents to present to landowners</li>
   </ul>
 </div>
 <!-- Experience End -->
@@ -66,8 +59,8 @@ title = 'Resume'
 </div>
 <div>
   <ul style="margin-top: 0;">
-    <li>null</li>
-    <li>null</li>
+    <li>Supported approximately 300 students with fellow TA’s by grading homeworks and hosting office hours</li>
+    <li>Collaborated with the lead TA to develop rubrics and improve grading workflows to ensure timeliness</li>
   </ul>
 </div>
 <!-- Experience End -->
@@ -83,8 +76,9 @@ title = 'Resume'
 </div>
 <div>
   <ul style="margin-top: 0;">
-    <li>null</li>
-    <li>null</li>
+    <li>Migrated legacy R data pipelines to DBT, investigating and resolving data discrepancies to improve reliability</li>
+    <li>Developed DBT models and implemented styling enhancements for 4 internal analytics dashboards</li>
+    <li>Queried large datasets using Amazon Athena and S3 to ensure data quality and deliver accurate data for reporting</li>
   </ul>
 </div>
 <!-- Experience End -->
@@ -100,8 +94,8 @@ title = 'Resume'
 </div>
 <div>
   <ul style="margin-top: 0;">
-    <li>null</li>
-    <li>null</li>
+    <li>Concepts included numpy, dataframes, regression, machine learning, web scraping</li>
+    <li>Allocated 15 hours per week for labs, office hours, and grading to provide feedback and critiques</li>
   </ul>
 </div>
 <!-- Experience End -->
@@ -117,8 +111,8 @@ title = 'Resume'
 </div>
 <div>
   <ul style="margin-top: 0;">
-    <li>null</li>
-    <li>null</li>
+    <li>Took orders, bagged pastries and rolls, and assisted the kitchen in prepping ingredients</li>
+    <li>Communicated with coworkers to open and close the store and keep service running smoothly</li>
   </ul>
 </div>
 <!-- Experience End -->
@@ -126,5 +120,5 @@ title = 'Resume'
 # Projects
 
 # Other
-**Languages**: English (Native), Japanese (Native), Spanish (Elementary)\
-**Hobbies**: Running, Cycling, Camping, Photography
+**Languages:** English (Native), Japanese (Native), Spanish (Elementary)\
+**Hobbies:** Running, Cycling, Camping, Photography, Baba Is You(not good)

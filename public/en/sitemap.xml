@@ -17,12 +17,42 @@
   </url><url>
     <loc>http://localhost:1313/resume/</loc>
     <lastmod>2026-07-28T17:03:53-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/resume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="http://localhost:1313/jp/resume/"
+                />
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2026-07-28T16:40:32-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="http://localhost:1313/jp/contact/"
+                />
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-07-28T16:29:44-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="http://localhost:1313/jp/about/"
+                />
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
     <xhtml:link
