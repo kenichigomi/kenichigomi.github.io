@@ -24,7 +24,7 @@ unsafe = true
 [params]
 author = "Kenichi Gomi"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Kenichi Gomi's personal website"
+description = "you are reading the description for Kenichi's personal website :D"
 keywords = "blog,developer,personal"
 info = ["Data Science and Environmental Sustainability Sciences"]
 avatarURL = "images/kenichi_pfp.jpg"

@@ -118,6 +118,47 @@ title = 'Resume'
 <!-- Experience End -->
 
 # Projects
+<!-- Project Begin -->
+<div style="display: flex; justify-content: space-between;">
+  <strong>kenichigomi.github.io</strong>
+  <span>July 2026</span>
+</div>
+<div>
+  <ul style="margin-top: 0;">
+    <li>Built a personal website using Hugo, HTML, CSS and Markdown to showcase work experience and technical skills</li>
+    <li>Customized and translated each page manually to provide bilingual support in English and Japanese</li>
+    <li>Deployed using GitHub Pages enabling automatic updates from repository commits using GitHub Actions</li>
+  </ul>
+</div>
+<!-- Project End -->
+
+<!-- Project Begin -->
+<div style="display: flex; justify-content: space-between;">
+  <strong>GridForce Webscraper</strong>
+  <span>October 2025</span>
+</div>
+<div>
+  <ul style="margin-top: 0;">
+    <li>Built a Python tool that retrieved GridForce interconnection queue data from National Grid using feeder IDs</li>
+    <li>Processed data to identify 556 feeders with >4MW available on substations with >4MW available</li>
+    <li>Validated automated results with project managers to ensure data accuracy for business use</li>
+  </ul>
+</div>
+<!-- Project End -->
+
+<!-- Project Begin -->
+<div style="display: flex; justify-content: space-between;">
+  <strong>Metrics Dashboard</strong>
+  <span>August 2024</span>
+</div>
+<div>
+  <ul style="margin-top: 0;">
+    <li>Rebuilt an existing analytics dashboard in R Shiny, integrating DBT models to automate data presentation</li>
+    <li>Designed interactive views featuring value boxes and bar plots showing progress of compound screening</li>
+    <li>Integrated a dynamic sankey diagram from separate script that updated based on user-selected targets</li>
+  </ul>
+</div>
+<!-- Project End -->
 
 # Other
 **Languages:** English (Native), Japanese (Native), Spanish (Elementary)\
