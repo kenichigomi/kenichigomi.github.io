@@ -18,7 +18,7 @@ title = 'Resume'
 <div>
   <ul style="margin-top: 0;">
     <li><strong>GPA:</strong> 3.688/4.000</li>
-    <li><strong>表彰:</strong> Deans List Spring 2023, Fall 2023, Spring 2024, 2025, 2026</li>
+    <li><strong>表彰:</strong> 優秀者名簿 春 2023, 秋 2023, 春 2024, 2025, 2026</li>
     <li><strong>クラブ活動:</strong> ランニングクラブ、ペップバンド (アルトサックスセクションリーダー)</li>
     <li><strong>Relevant Courses:</strong> Machine Learning, Database Design, Information Visualization, Artificial Intelligence, Sustainable Development</li>
     <li><strong>Notes:</strong> Participated in the NU.in first-semester study abroad program in London</li>
@@ -32,12 +32,12 @@ title = 'Resume'
 # 職務経歴
 <!-- Experience Begin -->
 <div style="display: flex; justify-content: space-between;">
-  <strong>Renewable Energy Site Acquisition Co-op</strong>
-  <span>June 2025 ~ December 2025</span>
+  <strong>太陽光発電土地取得Co-op</strong>
+  <span>2025年6月 ~ 2025年12月</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <i>BW Solar</i>
-  <i>Boston, MA (Remote)</i>
+  <i>ボストン, マサチューセッツ州 (リモート)</i>
 </div>
 <div>
   <ul style="margin-top: 0;">

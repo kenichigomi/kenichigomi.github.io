@@ -1,0 +1,28 @@
+{{ define "title" }}
+404 | {{ .Site.Title }}
+{{ end }}
+
+{{ define "content" }}
+<section class="container centered">
+  <div class="error">
+    <h1>404</h1>
+    <h2 id="title">Page Not Found</h2>
+
+    <p id="message">
+      Sorry, the page you're looking for doesn't exist.
+    </p>
+
+    <a id="home-link" href="/en/">Return Home</a>
+  </div>
+</section>
+
+<script>
+if (window.location.pathname.startsWith("/jp/")) {
+    document.getElementById("title").textContent = "ページが見つかりません";
+    document.getElementById("message").textContent =
+        "お探しのページは存在しないか、移動しました。";
+    document.getElementById("home-link").textContent = "ホームへ戻る";
+    document.getElementById("home-link").href = "/jp/";
+}
+</script>
+{{ end }}
